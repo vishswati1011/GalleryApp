@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/GalleryApp/static/css/main.cebf3272.chunk.css",
+    "main.js": "/GalleryApp/static/js/main.a468d40c.chunk.js",
+    "main.js.map": "/GalleryApp/static/js/main.a468d40c.chunk.js.map",
+    "runtime-main.js": "/GalleryApp/static/js/runtime-main.881f1f91.js",
+    "runtime-main.js.map": "/GalleryApp/static/js/runtime-main.881f1f91.js.map",
+    "static/js/2.eb64babd.chunk.js": "/GalleryApp/static/js/2.eb64babd.chunk.js",
+    "static/js/2.eb64babd.chunk.js.map": "/GalleryApp/static/js/2.eb64babd.chunk.js.map",
+    "static/js/3.6ac3b3c6.chunk.js": "/GalleryApp/static/js/3.6ac3b3c6.chunk.js",
+    "static/js/3.6ac3b3c6.chunk.js.map": "/GalleryApp/static/js/3.6ac3b3c6.chunk.js.map",
+    "index.html": "/GalleryApp/index.html",
+    "static/css/main.cebf3272.chunk.css.map": "/GalleryApp/static/css/main.cebf3272.chunk.css.map",
+    "static/js/2.eb64babd.chunk.js.LICENSE.txt": "/GalleryApp/static/js/2.eb64babd.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/GalleryApp/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.881f1f91.js",
+    "static/js/2.eb64babd.chunk.js",
+    "static/css/main.cebf3272.chunk.css",
+    "static/js/main.a468d40c.chunk.js"
+  ]
+}
